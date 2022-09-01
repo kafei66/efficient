@@ -1,0 +1,22 @@
+{
+	"code": 200,
+	"msg": "获取成功",
+	"data": [
+		{
+			"id": 1,
+			"rolename": "管理者",
+			"role_time": "2022-08-28T16:03:00Z",
+			"remark": "",
+			"is_delete": false,
+			"permission": "上海"
+		},
+		{
+			"id": 2,
+			"rolename": "财务部管理者",
+			"role_time": "2022-08-28T16:03:00Z",
+			"remark": "",
+			"is_delete": false,
+			"permission": "上海"
+		}
+	]
+}
